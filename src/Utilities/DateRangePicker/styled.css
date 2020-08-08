@@ -1,0 +1,18 @@
+.test .react-daterange-picker__wrapper{
+    border: none;
+    box-shadow: 0 0 10px 0 grey;
+    border-radius: 20px;
+    padding: 5px;
+}
+.test .react-daterange-picker__inputGroup__input{
+    color: black !important;
+    font-family: Roboto;
+}
+
+.calender{
+    border-radius: 10px;
+}
+
+.calender .react-calendar__tile--active{
+    background: #00ad6f !important;
+}
